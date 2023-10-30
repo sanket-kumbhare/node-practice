@@ -1,0 +1,23 @@
+{
+  "name": "space",
+  "version": "1.0.0",
+  "description": "Project created while learning node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket-kumbhare/space.git"
+  },
+  "author": "Sanket Kumbhare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanket-kumbhare/space/issues"
+  },
+  "homepage": "https://github.com/sanket-kumbhare/space#readme",
+  "dependencies": {
+    "csv-parse": "^5.5.2"
+  }
+}
