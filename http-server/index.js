@@ -44,4 +44,6 @@ server.on("request", (req, res) => {
   res.end();
 });
 
-server.listen(4001);
+server.listen(3000, () => {
+  console.log(`Listening on port 3000...`);
+});
